@@ -6,4 +6,5 @@ Obstacles include:
   -	Jumping in order to not hit the mini triangles
   -	Having ditches to jump over
   -	Flying and attempting to avoid hitting triangles and squares
-![image](https://user-images.githubusercontent.com/86267678/155766704-dbd26afb-9121-4b69-8c95-c5bb7a862170.png)
+
+![start](https://user-images.githubusercontent.com/86267678/155766805-df231324-6657-4705-bd80-e48f40fc9218.png)
